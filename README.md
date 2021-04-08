@@ -8,7 +8,8 @@ Here is an example on how to add images
 
 Here is a cute dolphin queen:
 
-![A cute dolphi](cute-dolphin.jpeg)
+![A cute dolphin](cute-dolphin.jpeg)
+![A happy dolphin](happy_dolphin.jpg)
 
 I love dolphins but I haven't figure out a way to have one at home
 yet...  But we'll get there!
@@ -38,6 +39,6 @@ link](https://canvas.uw.edu/courses/1449798/pages/course-schedule)!
 
 ### Images: 
 
-Check the dolphine image.  The exclamation mark in front of it means
+Check the dolphin image.  The exclamation mark in front of it means
 to load the image into the text, otherwise you have just link but no
 image. 
